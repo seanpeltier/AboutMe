@@ -6,7 +6,7 @@ I was a Senior Data Analyst for over 2 years, but have since decided to focus my
 
 When I'm not learning on how to better myself and my work for my clients, I am playing table top games with my friends, going to concerts and discovering new music, looking to add to my vinyl record collection, listening to podcasts and watching any and all horror movies.
 
-You can follow along on my journey to create a website where us horror fanatics get together and share their love for all things horror at [It's A Horrorble Life](https://itsahorrorblelife.com).
+You can follow along on my journey to create a website where us horror fanatics get together and share our love for all things horror at [It's A Horrorble Life](https://itsahorrorblelife.com).
 
 Also, feel free to check out my other passion at [Daily Album Review](https://dailyalbumreview.com) in the near future. 
 
