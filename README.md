@@ -1,37 +1,16 @@
-## Sean Peltier
+# Get To Know Me
 
-You can use the [editor on GitHub](https://github.com/seanpeltier/AboutMe/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi there! My name is Sean Peliter and I am a Junior Web Developer that currently resides in Columbus, Ohio.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I was a Senior Data Analyst for over 2 years, but have since decided to focus my attention towards my passion, which is web development and design.
 
-### Markdown
+When I'm not learning on how to better myself and my work for my clients, I am playing table top games with my friends, going to concerts and discovering new music, looking to add to my vinyl record collection, listening to podcasts and watching any and all horror movies.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can follow along on my journey to create a website where us horror fanatics get together and share their love for all things horror at [Link] https://itsahorrorblelife.com
 
-```markdown
-Syntax highlighted code block
+Also, feel free to check out my other passion at [Link] https://dailyalbumreview.com in the near future. 
 
-# Header 1
-## Header 2
-### Header 3
+Thanks! 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seanpeltier/AboutMe/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Sean Peltier
+seanpeltier11@gmail.com
