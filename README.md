@@ -1,6 +1,6 @@
 # Get To Know Me
 
-Hi there! My name is Sean Peliter and I am a Junior Web Developer that currently resides in Columbus, Ohio.
+Hi there! My name is Sean Peltier and I am a Junior Web Developer that currently resides in Columbus, Ohio.
 
 I was a Senior Data Analyst for over 2 years, but have since decided to focus my attention towards my passion, which is web development and design.
 
